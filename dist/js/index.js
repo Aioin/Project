@@ -1,0 +1,1 @@
+var mySwiper=new Swiper(".swiper-container",{effect:"fade",fade:{crossFade:!1},autoplay:3e3,pagination:".swiper-pagination",paginationHide:!0,prevButton:".swiper-button-prev",nextButton:".swiper-button-next"});
